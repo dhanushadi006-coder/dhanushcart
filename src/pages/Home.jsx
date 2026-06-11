@@ -740,7 +740,7 @@ const Home = () => {
                     
                     <div style={styles.demoCredentials}>
                       <p>Demo Account:</p>
-                      <code>demo@shophub.com / demo123</code>
+                      <code>demo@JKcart.com / demo123</code>
                     </div>
                   </form>
                 </div>
@@ -752,7 +752,7 @@ const Home = () => {
                     <FaUserPlus />
                   </div>
                   <h2 style={styles.loginTitle}>Create Account</h2>
-                  <p style={styles.loginSubtitle}>Join ShopHub today</p>
+                  <p style={styles.loginSubtitle}>Join JKcart today</p>
                   
                   <form onSubmit={handleSignup} style={styles.loginForm}>
                     <div style={styles.inputGroup}>
@@ -818,7 +818,7 @@ const Home = () => {
       <footer style={styles.footer}>
         <div style={styles.footerContent}>
           <div style={styles.footerSection}>
-            <h3 style={styles.footerLogo}>ShopHub</h3>
+            <h3 style={styles.footerLogo}>JKcart</h3>
             <p style={styles.footerDesc}>Your one-stop destination for all your shopping needs.</p>
             <div style={styles.paymentMethods}>
               <FaCreditCard style={styles.paymentIcon} />
@@ -851,7 +851,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-        <div style={styles.footerBottom}><p>&copy; 2026 ShopHub. All rights reserved.</p></div>
+        <div style={styles.footerBottom}><p>&copy; 2026 . All rights reserved.</p></div>
       </footer>
     </div>
   );
