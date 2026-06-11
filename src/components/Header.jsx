@@ -12,7 +12,7 @@ function Header() {
       }}
     >
       <h2 style={{ color: "white", margin: 0 }}>
-        My MERN App
+         Dhanu Cart
       </h2>
 
       <div
@@ -40,13 +40,13 @@ function Header() {
         </Link>
 
         <Link
-          to="/contact"
+          to="/Emergency"
           style={{ color: "white", 
             textDecoration: "none",
 
            }}
         >
-          Contact
+          Emergency
         </Link>
 
         <Link
